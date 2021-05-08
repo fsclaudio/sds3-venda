@@ -22,10 +22,7 @@ const DonutChart = () => {
  
             setChartData ({labels: mylabel, series: mySeries});
         });
-    },[] )
-
-    
-   
+    },[] )  
     
     const options = {
         legend: {
