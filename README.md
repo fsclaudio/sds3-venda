@@ -8,7 +8,7 @@ https://cfs-dsvendas.netlify.app/
 
 DsVendas é uma aplicação full stack web construída durante a 3ª edição da Semana DevSuperior (#sds3), evento organizado pela #DevSuperior.
 
-A aplicação consiste em uma aplicação para mostar o desempenho de vendas, com a percentagem devas por vendedor bem como todas as vendas realizadas no período. 
+A aplicação consiste em uma aplicação para mostrar o desempenho de vendas, com a percentagem de vendas realizadas por vendedor bem como todas as vendas realizadas no período. 
 
 ## Layout do aplicativo Web
 
