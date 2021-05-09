@@ -1,6 +1,6 @@
 # sds3-venda
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/fsclaudio/dsdeliver-sd2-claudio/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/fsclaudio/sds3-venda/blob/main/LICENSE) 
 
 # Sobre o projeto
 
